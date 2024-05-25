@@ -1,6 +1,6 @@
 # In Config
 
-- Replace 
+Replace 
 ```js
 token: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
 ```
